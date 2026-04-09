@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "langchain>=1.2.15",
+    "langchain-community>=0.4.1",
     "langchain-openai>=1.1.12",
     "matplotlib>=3.10.8",
     "numpy>=2.4.4",
@@ -14,4 +15,5 @@ dependencies = [
     "python-dotenv>=1.2.2",
     "scikit-learn>=1.8.0",
     "seaborn>=0.13.2",
+    "wikipedia>=1.4.0",
 ]
